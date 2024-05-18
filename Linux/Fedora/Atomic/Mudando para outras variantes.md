@@ -1,3 +1,5 @@
+#linux #fedora #atomic 
+
 Uma das características de sistemas imutáveis do Fedora, é a capacidade de mudar de "variante", ou seja, trocar o ambiente da distribuição para outra imagem na árvore do `ostree`.
 
 Segue um exemplo de como mudar do `Silverblue` (variante com Gnome) para o `Kinoite` (variante com KDE Plasma).

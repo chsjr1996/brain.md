@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "d071bd8352450167",
+    "type": "split",
+    "children": [
+      {
+        "id": "7574a0f2f8aaa550",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26de4e6066c42fbc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f69d662183508ecc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69d429d51da3ae79",
+    "type": "split",
+    "children": [
+      {
+        "id": "a25b6ae979f241fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ffe91cf386c3eef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f913e0e9cf7669fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#brainstart",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "520a62884d1ee56b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1f7807ed4212c9a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecd3cfa88ab9ff40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9efc120c6065c7e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb98f5de0ccbc90e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f492f570841f3f96",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e39a139cd93c3088",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f69d662183508ecc",
+  "lastOpenFiles": [
+    "Dev/Linguagens/PHP/Frameworks/HyperF.md",
+    "Files/current_graph.png",
+    "Files/Pasted image.png",
+    "Linux/Fedora/Atomic/Ajustes no hardware.md",
+    "Linux/Geral/Flatpak/Flatpak runtimes e setup.md",
+    "Linux/Geral/Flatpak/Flatpak - VSCode.md",
+    "Linux/Geral/Flatpak/Flatpak - Postman.md",
+    "Linux/Geral/Sistemas imutáveis.md",
+    "Linux/Linux.md",
+    "Dev/SGBD/Sistema de gerenciamento de banco de dados.md",
+    "Dev/Linguagens/Linguagens de programação.md",
+    "Dev/Containers/Containers.md",
+    "README.md",
+    "Dev/SGBD/SQL/MySQL/MySQL - dicas e utilidades.md",
+    "Linux/Fedora/Atomic/Definição.md",
+    "Linux/Fedora/Atomic/Fedora Silverblue.md",
+    "Linux/Fedora/Atomic/Mudando para outras variantes.md",
+    "Linux/Fedora/Atomic/Toolbox ajustes e correções.md",
+    "Linux/Fedora/Atomic/Primeiros passos pós instalação.md"
+  ]
+}

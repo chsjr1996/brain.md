@@ -1,8 +1,10 @@
+#linux #fedora #atomic 
+
 Fedora Silverblue é um [[Sistemas imutáveis]] que dispõe por padrão o ambiente gráfico Gnome.
 
 ## Utilidades
 - [[Primeiros passos pós instalação]]
-- [[Podman problemas de permissões]]
+- [[Brain.md/Dev/Containers/Podman/Podman problemas de permissões]]
 - [[Toolbox ajustes e correções]]
 
 

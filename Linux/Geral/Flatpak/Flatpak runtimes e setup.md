@@ -1,3 +1,5 @@
+#linux #flatpak 
+
 Em determinados casos é necessário instalar _runtimes_ no flatpak, que variam desde utilitários à bibliotecas que poderão ser compartilhadas entre as aplicações flatpak via Sandbox.
 
 # Instalando _runtimes_

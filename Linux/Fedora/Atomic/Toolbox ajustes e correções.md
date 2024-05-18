@@ -1,3 +1,4 @@
+#linux #fedora #atomic 
 ## xdg-open
 Para permitir abrir o aplicativo correspondendo na máquina "host" de links e/ou arquivos quando aplicações que estejam executando dentro do `toolbox` solicitem sua abertura, é necessário realizar um ajuste no utilitário `xdg-open`. Para isso, rode os comandos abaixo no terminal:
 

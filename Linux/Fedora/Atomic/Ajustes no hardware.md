@@ -1,3 +1,4 @@
+#linux #fedora #atomic 
 
 ## Ajustando o uso de SWAP
 O uso do SWAP é definido pela distribuição Linux onde em alguns casos este valor pode estar ajustado em 60%, ou seja, quando 40% da memória RAM estiver ocupada o sistema operacional irá instruir o uso da SWAP.

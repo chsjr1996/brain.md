@@ -1,3 +1,5 @@
+#os #linux #fedora #atomic
+
 As distribuições atômicas do Fedora são também conhecidas como "[[Sistemas imutáveis]]". Estão disponíveis nas versões:
 
 - [[Fedora Silverblue]]
