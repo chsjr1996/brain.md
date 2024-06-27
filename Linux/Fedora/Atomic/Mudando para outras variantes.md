@@ -31,8 +31,6 @@ rpm-ostree rebase fedora:fedora/40/x86_64/kinoite
 Agora basta reiniciar sua máquina que no próximo boot o novo "deploy" será selecionado automaticamente, e você já estará na variante que foi feito o "rebase".
 
 ---
-To undo this, you can reboot you machine and press "shift" before OS boot and choose the previous variant on menu. Then, after boot on a terminal run:
-
 Para desfazer isso, reinicie sua máquina e aperte "shift" antes da tela de boot do Fedora, e então selecione o "deploy" da variante anterior. Após o boot, no terminal execute o comando abaixo:
 
 ```

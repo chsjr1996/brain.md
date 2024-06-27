@@ -1,4 +1,4 @@
- #linux #flatpak 
+ #linux #flatpak #vscode
 # Instalação e configuração inicial
 
 ```shell
@@ -22,6 +22,7 @@ O pacote flatpak do Visual Studio Code exige algumas configurações extras para
 > Você pode optar por utilizar o zsh, fish, etc... o importante é manter o comando `host-spawn` para permitir a integração com o host (S.O.)
 
 # SDKs
+#php
 O VSCode possui algumas extensões que necessitam de executáveis instalados na máquina, porém como o flatpak isola tudo em Sandbox, é necessário instalar esses executáveis/bibliotecas via _runtimes_ do flatpak, por exemplo no caso do PHP:
 
 ```
@@ -38,7 +39,7 @@ flatpak install org.freedesktop.Sdk.Extension.php83
 Basta iniciar a aplicação com a variável de ambiente `FLATPAK_ENABLE_SDK_EXT` desta forma:
 
 ```shell
-FLATPAK_ENABLE_SDK_EXT=php83 flatpak run com.visualstudio.code
+FLATPAK_ENABLE_SDK_EXT=php8ff3 flatpak run com.visualstudio.code
 ```
 
 > [!TIP] Habilitando ENV com Flatseal
@@ -53,4 +54,14 @@ Nas configurações do VSCode é necessário inserir as linhas abaixo:
 	//--- Se estiver usando essa extensão
 	"LaravelExtraIntellisense.phpCommand": "/usr/lib/sdk/php83/bin/php -r \"{code}\"",
 }
+```
+
+## Login e sincronização (Gnome Keyring)
+#gnome 
+O sistema de sincronização do VSCode exige que o login seja feito por uma conta Github ou Microsoft, e uma vez que o login seja feito para persistir a sessão é necessário que o VSCode tenha acesso ao gerenciador de chaves do sistema operacional.
+
+Para garantir o funcionamento do VSCode Flatpak com o Gnome Keyring é necessário editar o arquivo `~/.vscode/argv.json` adicionando a seguinte linha:
+
+```json
+"password-store": "gnome-libsecret"
 ```

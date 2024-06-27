@@ -1,3 +1,7 @@
 {
-  "accentColor": "#3584e4"
+  "accentColor": "",
+  "cssTheme": "",
+  "enabledCssSnippets": [],
+  "theme": "system",
+  "nativeMenus": false
 }

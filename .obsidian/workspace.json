@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7574a0f2f8aaa550",
+        "id": "93689ad3a4c31e99",
         "type": "tabs",
         "children": [
           {
-            "id": "26de4e6066c42fbc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "f69d662183508ecc",
+            "id": "a1cb599d1921b372",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Linux/Geral/Interfaces gráficas/Interfaces gráficas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#brainstart",
+                "query": "xdg-",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1f7807ed4212c9a4",
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Linux/Geral/Interfaces gráficas/Interfaces gráficas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Linux/Geral/Interfaces gráficas/Interfaces gráficas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Linux/Geral/Interfaces gráficas/Interfaces gráficas.md"
               }
             }
           }
@@ -156,26 +146,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f69d662183508ecc",
+  "active": "a1cb599d1921b372",
   "lastOpenFiles": [
-    "Dev/Linguagens/PHP/Frameworks/HyperF.md",
-    "Files/current_graph.png",
-    "Files/Pasted image.png",
-    "Linux/Fedora/Atomic/Ajustes no hardware.md",
-    "Linux/Geral/Flatpak/Flatpak runtimes e setup.md",
-    "Linux/Geral/Flatpak/Flatpak - VSCode.md",
-    "Linux/Geral/Flatpak/Flatpak - Postman.md",
-    "Linux/Geral/Sistemas imutáveis.md",
-    "Linux/Linux.md",
-    "Dev/SGBD/Sistema de gerenciamento de banco de dados.md",
-    "Dev/Linguagens/Linguagens de programação.md",
-    "Dev/Containers/Containers.md",
-    "README.md",
-    "Dev/SGBD/SQL/MySQL/MySQL - dicas e utilidades.md",
-    "Linux/Fedora/Atomic/Definição.md",
-    "Linux/Fedora/Atomic/Fedora Silverblue.md",
-    "Linux/Fedora/Atomic/Mudando para outras variantes.md",
+    "Linux/Fedora/Atomic/Toolbox - pacotes usados.md",
     "Linux/Fedora/Atomic/Toolbox ajustes e correções.md",
-    "Linux/Fedora/Atomic/Primeiros passos pós instalação.md"
+    "Ver depois.md",
+    "Dev/Linguagens/PHP/Inserção em massa usando Redis e MySQL.md",
+    "Dev/Ferramentas/Telemetria/Elastic APM.md",
+    "Linux/Geral/Interfaces gráficas/Gnome",
+    "Linux/Geral/Interfaces gráficas",
+    "Dev/Ferramentas/Telemetria",
+    "Dev/Ferramentas",
+    "Linux/ArchLinux/ArchLinux - dicas e utitilidades.md",
+    "Linux/ArchLinux",
+    "ArchLinux.md",
+    "Linux/Geral/Flatpak/Flatpak - VSCode.md",
+    "Linux/Geral/Flatpak/Flatpak runtimes e setup.md",
+    "Linux/Geral/Flatpak/Flatpak - dicas e utilidades.md",
+    "Linux/Fedora/Atomic/Mudando para outras variantes.md",
+    "Linux/Geral/Interfaces gráficas/Gnome/Gnome ajustes e dicas.md",
+    "Dev/ML/LLMs/Ollama3 - Instalação container.md",
+    "Dev/ML/Machine Learning.md",
+    "Dev/ML/LLMs",
+    "Dev/Desenvolvimento.md",
+    "Dev/ML",
+    "Dev/Linguagens/Frontend/CSS.md",
+    "Linux/Geral/Interfaces gráficas/Interfaces gráficas.md",
+    "Linux/Geral/Interfaces gráficas/Gnome/Gnome.md",
+    "Dev/Linguagens/PHP/PHP.md",
+    "Dev/SGBD/NoSQL/MongoDB/MongoDB.md",
+    "Dev/SGBD/SQL/PgSQL/PostgreSQL - Dicas e utilidades.md",
+    "Linux/Geral/Aplicativos padrão.md",
+    "Linux/Geral/Flatpak/Flatpak - Postman.md",
+    "Dev/SGBD/SQL/PgSQL",
+    "Dev/SGBD/NoSQL/MongoDB/MongoDB - Dicas e utilidades.md",
+    "Dev/SGBD/NoSQL/BD não relacional.md",
+    "Trilhas/Backend.canvas",
+    "Dev/Linguagens/Frontend",
+    "Trilhas",
+    "Files/current_graph.png",
+    "Files/Pasted image.png"
   ]
 }
