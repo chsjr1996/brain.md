@@ -79,3 +79,4 @@ sudo mv wp-cli.phar /usr/local/bin/wp
 
 ## Referências
 - https://developer.wordpress.org/plugins/cron/
+- https://www.hostinger.com.br/tutoriais/como-instalar-e-usar-wp-cli-para-gerenciar-blog-wordpress
