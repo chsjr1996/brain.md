@@ -22,7 +22,7 @@ if ( !wp_next_scheduled( 'cron_name' ) ) {
 
 ## Exemplo completo:
 ```php
-public const CRON_NAME = 'oanewsender_contact_sent_info_reset_cron';
+public const CRON_NAME = 'cron_name';
 
 /**
  * Everyday at 00:00AM
