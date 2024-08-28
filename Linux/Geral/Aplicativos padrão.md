@@ -1,5 +1,3 @@
-#linux
-
 Para verificar o aplicativo padrão por "mime type" execute o comando:
 
 ```

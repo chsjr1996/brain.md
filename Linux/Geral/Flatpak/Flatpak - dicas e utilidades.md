@@ -1,10 +1,11 @@
 #flatpak 
 
 ## Chromium apps Wayland
-#gnome
+#gnome #kde
+
 Caso as aplicações criadas como atalhos do Chromium/Chrome no flatpak não estiverem sendo associadas com o ícone na Dash do Gnome ou outro painel, faça as seguintes modificações no arquivo ".desktop".
 
-```
+```shell
 cd ~/.local/share/applications
 ```
 
@@ -21,3 +22,11 @@ StartupWMClass=crx_hnpfjngllnobngcgfapefoaidbinmjnm
 Icon=chrome-hnpfjngllnobngcgfapefoaidbinmjnm-Default
 StartupWMClass=chrome-hnpfjngllnobngcgfapefoaidbinmjnm-Default
 ```
+
+## KDE Breeze
+#kde 
+
+```
+sudo flatpak override --system --filesystem=xdg-config/gtk-3.0:ro --filesystem=xdg-config/gtkrc-2.0:ro --filesystem=xdg-config/gtk-4.0:ro --filesystem=xdg-config/gtkrc:ro
+```
+> Referência: [Github -  flathub/org.gtk.Gtk3theme.Breeze](https://github.com/flathub/org.gtk.Gtk3theme.Breeze/blob/master/README.md)

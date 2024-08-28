@@ -21,7 +21,8 @@
 		{"id":"7ccfbaf923e6cbe8","type":"text","text":"[[MySQL]]","x":-1220,"y":-360,"width":250,"height":60},
 		{"id":"e36b062906a40600","type":"text","text":"[[BD relacional]]","x":-859,"y":-310,"width":250,"height":60},
 		{"id":"21d2d3147b6152e5","type":"text","text":"[[BD não relacional]]","x":-859,"y":-210,"width":250,"height":60},
-		{"id":"4e9751bded91062d","x":-1220,"y":-150,"width":250,"height":60,"type":"text","text":"[[MongoDB]]"}
+		{"id":"4e9751bded91062d","type":"text","text":"[[MongoDB]]","x":-1220,"y":-150,"width":250,"height":60},
+		{"id":"cb49b8c2faff6fb0","x":400,"y":-540,"width":250,"height":60,"type":"text","text":"[[Linux]]"}
 	],
 	"edges":[
 		{"id":"a34aac59f67e578f","fromNode":"d0118dc987184fe4","fromSide":"bottom","toNode":"1a91c5d289500617","toSide":"top"},
@@ -44,6 +45,7 @@
 		{"id":"f644fb569d56d4b0","fromNode":"e36b062906a40600","fromSide":"right","toNode":"6d89f6ab79f99566","toSide":"left"},
 		{"id":"f9fccc8481102f49","fromNode":"21d2d3147b6152e5","fromSide":"right","toNode":"6d89f6ab79f99566","toSide":"left"},
 		{"id":"971ed94f2384c07c","fromNode":"7ccfbaf923e6cbe8","fromSide":"right","toNode":"e36b062906a40600","toSide":"left"},
-		{"id":"239a9d504a1128f3","fromNode":"4e9751bded91062d","fromSide":"right","toNode":"21d2d3147b6152e5","toSide":"left"}
+		{"id":"239a9d504a1128f3","fromNode":"4e9751bded91062d","fromSide":"right","toNode":"21d2d3147b6152e5","toSide":"left"},
+		{"id":"9e5160d88dc7838e","fromNode":"cb49b8c2faff6fb0","fromSide":"left","toNode":"bcaa48af3440b7a0","toSide":"right"}
 	]
 }

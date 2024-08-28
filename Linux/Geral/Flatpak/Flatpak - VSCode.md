@@ -1,4 +1,4 @@
- #linux #flatpak #vscode
+#linux #flatpak #vscode
 # Instalação e configuração inicial
 
 ```shell
@@ -39,7 +39,7 @@ flatpak install org.freedesktop.Sdk.Extension.php83
 Basta iniciar a aplicação com a variável de ambiente `FLATPAK_ENABLE_SDK_EXT` desta forma:
 
 ```shell
-FLATPAK_ENABLE_SDK_EXT=php8ff3 flatpak run com.visualstudio.code
+FLATPAK_ENABLE_SDK_EXT=php83 flatpak run com.visualstudio.code
 ```
 
 > [!TIP] Habilitando ENV com Flatseal
@@ -56,12 +56,23 @@ Nas configurações do VSCode é necessário inserir as linhas abaixo:
 }
 ```
 
-## Login e sincronização (Gnome Keyring)
-#gnome 
+## Login e sincronização
 O sistema de sincronização do VSCode exige que o login seja feito por uma conta Github ou Microsoft, e uma vez que o login seja feito para persistir a sessão é necessário que o VSCode tenha acesso ao gerenciador de chaves do sistema operacional.
-
+### Gnome Keyring
+#gnome 
 Para garantir o funcionamento do VSCode Flatpak com o Gnome Keyring é necessário editar o arquivo `~/.vscode/argv.json` adicionando a seguinte linha:
 
 ```json
 "password-store": "gnome-libsecret"
 ```
+
+### KWallet
+#kde
+Para garantir o funcionamento do VSCode Flatpak com o KWallet é necessário editar o arquivo `~/.vscode/argv.json` adicionando a seguinte linha:
+```json
+"password-store": "kwallet5"
+```
+
+Além disso é necessário adicionar permissões no flatpak do VSCode para acesso ao DBus do KDE `--talk-with=org.kde.\*`, que pode ser realizado através do gerenciador de permissões nativo do KDE ou Flatseal, na seção "Session Bus".
+![[vscode_kde_flatpak_session_bus_permission.png]]
+
