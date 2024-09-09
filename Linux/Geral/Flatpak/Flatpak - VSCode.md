@@ -74,5 +74,6 @@ Para garantir o funcionamento do VSCode Flatpak com o KWallet é necessário edi
 ```
 
 Além disso é necessário adicionar permissões no flatpak do VSCode para acesso ao DBus do KDE `--talk-with=org.kde.kwalletd5`, que pode ser realizado através do gerenciador de permissões nativo do KDE ou Flatseal, na seção "Session Bus".
+
 ![[vscode_kde_flatpak_session_bus_permission.png]]
 
