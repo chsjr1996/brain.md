@@ -1,4 +1,4 @@
-#podman 
+		#podman 
 
 
 ## Error on bind port 80
@@ -21,6 +21,7 @@ Com o Podman é comum acontecer alguns erros de permissão em determinados diret
 podman unshare ls -al <app_container_directory_path>
 ```
 > Isso vai exibir com qual usuário os diretórios estão associados dentro do podman, e consequentemente com qual usuário eles serão associados dentro do container em execução.
+
 
 ```
 podman unshare chown 1000:1000 -R <app_container_directory_path>

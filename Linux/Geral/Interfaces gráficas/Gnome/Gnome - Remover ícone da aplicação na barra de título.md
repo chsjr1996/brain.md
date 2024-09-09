@@ -1,6 +1,3 @@
-#gnome
-
-## Remover ícone da aplicação na barra de título
 Para remover o ícone da barra de título no terminal execute:
 
 ```

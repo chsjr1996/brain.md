@@ -17,7 +17,11 @@ Para persistir esse valor, adicione a linha abaixo no arquivo `/etc/sysctl.d/99-
 vm.swappiness = 10
 ```
 
-## CPU governor
+## CPU governor AMD
+
+> [!warning] Atenção
+> Nas versões mais atuais do Kernel (> 6.9) estes ajustes não são necessários.
+
 O utilitário `power profile` presente na distribuição pode não funcionar em alguns processadores AMD, para corrigir rode os comandos abaixo, no terminal:
 
 
