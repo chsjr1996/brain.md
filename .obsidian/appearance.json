@@ -1,7 +1,8 @@
 {
-  "accentColor": "#e9633a",
+  "accentColor": "",
   "cssTheme": "",
   "enabledCssSnippets": [],
   "theme": "system",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "baseFontSize": 16
 }

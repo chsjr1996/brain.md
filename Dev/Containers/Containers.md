@@ -2,4 +2,4 @@
 
 # Ferramentas
 - [[Podman]]
-- [[Ollama3 - Instalação container]]
+- [[Ollama - Instalação container]]
