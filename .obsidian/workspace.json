@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c70288cbd20e12e",
+            "id": "f708d30e4d648637",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,7 +16,19 @@
             }
           },
           {
-            "id": "eb0647537111f926",
+            "id": "b5556129075f58bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Ecossistema/Laravel - Ecossistema.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f48c151fff17fe66",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "swap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -157,46 +164,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb0647537111f926",
+  "active": "f708d30e4d648637",
   "lastOpenFiles": [
+    "README.md",
     "Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Ecossistema/Laravel - Ecossistema.md",
-    "Files/current_graph.png.part",
+    "Dev/Containers/Podman/Podman.md",
+    "Dev/Containers/Podman/Podman - Erro \"corrupted crc32 mismatch\".md",
+    "Linux/Fedora/Atomic/Ajustes no hardware.md",
+    "Dev/Ferramentas/Electron/Electron.md",
+    "Dev/Desenvolvimento.md",
+    "Dev/Ferramentas/Tauri/Tauri.md",
+    "Dev/Ferramentas/Electron",
+    "Dev/Ferramentas/Tauri",
+    "Linux/Geral/Linux - Jogos (Steam).md",
+    "Linux/Linux - Drivers de vídeo.md",
+    "Linux/Linux.md",
+    "Dev/Fundamentos/Árvore binária.md",
+    "Dev/Fundamentos/Exemplos/Inversão de árvore binária.md",
+    "Linux/Fedora/Atomic/Fedora Silverblue.md",
+    "Ver depois.md",
+    "Linux/Geral/Flatpak/Flatpak - VSCode.md",
     "Dev/Linguagens/Backend/PHP/PHP.md",
-    "Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Laravel.md",
-    "Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Ecossistema/Inertia - Laravel.md",
-    "Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Ecossistema/Breeze.md",
-    "MVC.md",
+    "Windows/Windows - WSL Docker Engine (nativo).md",
+    "Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Ecossistema/Sail.md",
+    "Windows/Windows.md",
+    "Windows/Windows - WSL consumo de RAM.md",
+    "Windows/Windows - WSL erro na inicialização.md",
+    "Dev/Containers/Containers.md",
+    "Dev/Containers/Docker/Docker.md",
+    "Dev/Containers/Docker",
+    "Dev/Containers/Podman/Podman e Laravel Sail.md",
+    "Dev/Linguagens/Híbridas/Javascript.md",
+    "Dev/Linguagens/Híbridas",
+    "Files/current_graph.png.part",
     "Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Ecossistema",
     "Dev/Linguagens/Backend/PHP/Frameworks/Laravel",
-    "Dev/Linguagens/Backend/Python/Python Venv.md",
-    "Dev/Linguagens/Backend/Python/Python.md",
-    "Dev/Linguagens/Python/Python.md",
-    "Dev/Linguagens/Backend/PHP/CMS/Wordpress/Wordpress - using WP Cron.md",
-    "Dev/Linguagens/Linguagens interpretadas.md",
-    "Dev/Linguagens/PHP/CMS/Wordpress/Wordpress.md",
-    "Dev/Linguagens/Backend/PHP/CMS/Wordpress/Wordpress.md",
-    "README.md",
-    "Linux/Geral/Flatpak/Flatpak - Hamster time tracker.md",
-    "Dev/Linguagens/Backend/PHP/Exemplos/PHP 8.4 - Property Hooks.md",
-    "Linux/Linux.md",
-    "Linux/Geral/Interfaces gráficas/TWM/i3wm/i3wm.md",
-    "Dev/Containers/Podman/Podman - database configuration mismatch.md",
-    "Linux/Geral/Interfaces gráficas/Compositor gráfico.md",
     "Trilhas/Backend.canvas",
-    "Trilhas/Trilhas de conhecimento.md",
-    "Linux/Geral/Flatpak/Flatpak - VSCode.md",
-    "Linux/Fedora/Atomic/Mudando para outras variantes.md",
-    "Dev/ML/LLMs/Ollama - Instalação container.md",
-    "Dev/Containers/Podman/Podman.md",
     "Files/current_graph.png",
     "Files/current_graph_new.png",
     "Files/current_graph_new.png.part",
     "Dev/Linguagens/Backend/PHP/Exemplos",
     "Dev/Linguagens/Backend/PHP/Frameworks/HyperF",
-    "Dev/Linguagens/Backend",
-    "Dev/Fundamentos/Exemplos",
-    "Dev/Fundamentos",
-    "Windows",
     "Files/vscode_kde_flatpak_session_bus_permission.png",
     "Files/Pasted image 20240628210723.png",
     "Files/interpreter_diagram.png",

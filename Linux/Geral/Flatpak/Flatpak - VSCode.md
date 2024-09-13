@@ -77,3 +77,11 @@ Além disso é necessário adicionar permissões no flatpak do VSCode para acess
 
 ![[vscode_kde_flatpak_session_bus_permission.png]]
 
+---
+
+> [!NOTE] Referências
+> - https://github.com/microsoft/vscode/issues/189672#issuecomment-1668412113
+ >- https://github.com/flathub/com.visualstudio.code/issues/415
+ >- https://github.com/microsoft/vscode-docs/pull/6577/files
+ >- https://github.com/microsoft/vscode-docs/blob/d1d393048da717d684bc04618de97b320af6aa18/docs/editor/settings-sync.md#other-linux-desktop-environments
+ >- https://github.com/flathub/com.google.Chrome/issues/180 

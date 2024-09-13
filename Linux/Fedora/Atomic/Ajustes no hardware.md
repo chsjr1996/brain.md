@@ -1,6 +1,10 @@
 #linux #fedora #atomic 
 
 ## Ajustando o uso de SWAP
+
+> [!warning] Atenção
+> O valor padrão do Kernel (10) na maioria dos cenários é o recomendado. Evitar usar a SWAP com máquinas com baixa memória RAM pode ser prejudicial para o desempenho do sistema.
+
 O uso do SWAP é definido pela distribuição Linux onde em alguns casos este valor pode estar ajustado em 60%, ou seja, quando 40% da memória RAM estiver ocupada o sistema operacional irá instruir o uso da SWAP.
 
 Isso pode não ser o ideal principalmente para hardwares com SSD e com uma quantidade de memória RAM superior à 16GB, pois não há necessidade do uso precoce de SWAP nesse caso. Além disso, o uso excessivo de SWAP em SSDs pode diminuir sua vida útil.

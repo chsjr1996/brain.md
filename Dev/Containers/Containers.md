@@ -2,4 +2,5 @@
 
 # Ferramentas
 - [[Podman]]
+- [[Docker]]
 - [[Ollama - Instalação container]]

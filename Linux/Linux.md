@@ -12,6 +12,7 @@
 ## Hardware
 - [[Ajustes no hardware]]
 - [[Linux hardware - dicas e utilidades]]
+- [[Linux - Drivers de vídeo]]
 
 ## Aplicativos
 
