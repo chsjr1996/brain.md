@@ -1,5 +1,5 @@
 ## Corrigindo problema DBus activatable
-Ao tentar abrir o aplicativo via interface gráfica ([[Gnome]] ou [[KDE]]) é possível que ela não inicialize corretamente.  Para resolver siga os passos abaixo:
+Ao tentar abrir o aplicativo via interface gráfica Gnome ou KDE, é possível que ela não inicialize corretamente.  Para resolver siga os passos abaixo:
 
 
 1. Localize o arquivo `.desktop` do flatpak, normalmente está neste diretório:

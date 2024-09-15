@@ -31,7 +31,7 @@ rpm-ostree rebase fedora:fedora/40/x86_64/kinoite
 
 ## Antes de reiniciar - Cuidados adicionais
 ### Desfazer fstab/rbind
-No caso de ter feito o procedimento do [[SDDM - Fedora Kinoite|SDDM]] é necessário comentar/remover o `rbind`, e após a reinicialização, se necessário deletar o diretório `/var/sddm`.
+No caso de ter feito o procedimento de mutabilidade do SDDM é necessário comentar/remover o `rbind`, e após a reinicialização, se necessário deletar o diretório `/var/sddm`.
 
 ### Reiniciar dconf/gsettings
 Esse procedimento pode ser útil para limpar configurações aplicadas em outra DE, seja a transição do Silverblue (Gnome) para Kinoite (KDE) ou vice-versa.

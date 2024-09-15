@@ -12,7 +12,6 @@
 # Ferramentas e técnicas
 - [[Elastic APM]]
 - [[Tauri]]
-- [[Electron]]
 
 # Áreas de estudo
 - [[Inteligência artificial]]

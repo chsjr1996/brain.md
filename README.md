@@ -13,10 +13,18 @@ O principal objetivo é gerar anotações como dados que se relacionam para gera
 ![[current_graph.png]](Files/current_graph.png)
 
 # Principais tópicos
-- [[Trilhas de conhecimento]]
 - [[Desenvolvimento]]
 - [[Linux]]
 - [[Windows]]
+
+# Trilhas de conhecimento
+Baseado no site [roadmap.sh](https://roadmap.sh/), contendo as trilhas de conhecimento que já possuo ou estou estudando, com anotações pessoais e interligadas com outras notas deste projeto.
+
+- [[Backend.canvas|Backend]] (em progresso)
+
+> [!warning] Atenção
+> A criação do Canvas foi feita pela ferramenta Obsidian, e portanto, depende desta para a correta renderização.
+
 
 # Ver depois
 ## Artigos/tópicos para ler e documentar.
@@ -55,3 +63,4 @@ O principal objetivo é gerar anotações como dados que se relacionam para gera
 ## Outros
 - https://nodered.org/
 - [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+- [SQLite - WAL](https://www.sqlite.org/draft/wal.html)

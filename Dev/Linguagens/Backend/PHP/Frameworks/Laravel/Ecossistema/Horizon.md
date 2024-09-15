@@ -27,6 +27,8 @@ protected function gate(): void
         return in_array($user->email, [
             'taylor@laravel.com',
         ]);
+        // or if 'user' has some field to check his role.
+        // return $user->is_admin;
     });
 }
 ```

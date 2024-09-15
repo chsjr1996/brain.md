@@ -1,6 +1,6 @@
-Com Inertia é possível criar uma aplicação "monolítica moderna", onde o *backend* e *frontend* ainda estão em uma 'estrutura de projeto' única, porém se comportando como duas aplicações [[API]] e [[SPA]].
+Com Inertia é possível criar uma aplicação "monolítica moderna", onde o *backend* e *frontend* ainda estão em uma 'estrutura de projeto' única, porém se comportando como duas aplicações API e SPA.
 
-Dessa forma o *frontend* pode ser escrito com [[React]], [[VueJS]] ou [[Svelte]] e integrado com *frameworks backend* como [[Laravel]] ou [[Ruby on Rails]] de forma que toda navegação se comporte como uma SPA.
+Dessa forma o *frontend* pode ser escrito com React, VueJS ou Svelte e integrado com *frameworks backend* como Laravel ou Ruby on Rails de forma que toda navegação se comporte como uma SPA.
 
 Isso possibilita escrever um código mais organizado e otimizado, se beneficiando de todas as funcionalidades dos *frameworks backend* mas ainda mantendo um *frontend* moderno.
 

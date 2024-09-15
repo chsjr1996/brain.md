@@ -2,7 +2,7 @@
 
 Esta biblioteca é um kit que permite a instalação de diversas funcionalidades relacionadas ao fluxo de autenticação do Laravel, como login, cadastro, recuperação de senha, verificação de e-mail e confirmação de senha. Além disso também trás uma versão simplificada da tela 'Meu perfil', onde o usuário logado pode alterar seu nome, e-mail e senha.
 
-Por padrão, as *views* disponibilizadas são no formato [[Blade]] e estilizadas com [[Tailwind CSS]]. Porém, é possível optar pelos formatos [[Livewire]] ou [[Inertia - Laravel]], neste último caso podendo seguir com [[VueJS]] ou [[React]].
+Por padrão, as *views* disponibilizadas são no formato Blade e estilizadas com Tailwind CSS. Porém, é possível optar pelos formatos Livewire ou Inertia - Laravel, neste último caso podendo seguir com VueJS ou React.
 
 # Instalação
 Primeiro é necessário adicionar a biblioteca no projeto usando o `composer`:

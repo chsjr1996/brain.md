@@ -23,9 +23,16 @@ podman unshare ls -al <app_container_directory_path>
 > Isso vai exibir com qual usuário os diretórios estão associados dentro do podman, e consequentemente com qual usuário eles serão associados dentro do container em execução.
 
 
+Defina o grupo com o UID e logo após dê permissão total para o dono+grupo (rwx-rwx-rx)
 ```
-podman unshare chown 1000:1000 -R <app_container_directory_path>
+podman unshare chown -R :1000 <app_container_directory_path>
 ```
+
+```
+podman unshare chmod -R 775 <app_container_directory_path>
+```
+
+> [!quote] Observação
 > O UID utilizado no exemplo é `1000`, mas deve ser alterado para o UID atual, para visualizar basta entrar com o comando `echo $UID`. Esse comando fará com que o usuário associado com o container seja o mesmo que o usuário local, e pode ser usado em casos onde o container não precisa de permissões elevadas para executar.
 
 ### Referências

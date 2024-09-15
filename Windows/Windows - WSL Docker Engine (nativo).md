@@ -1,4 +1,6 @@
-É possível instalar o [[Docker]] dentro do WSL, sem depender do Docker Desktop. Para isto basta entrar no `wsl` e instalar com o comando abaixo:
+#windows #docker #wsl
+
+É possível instalar o Docker dentro do WSL, sem depender do Docker Desktop. Para isto basta entrar no `wsl` e instalar com o comando abaixo:
 
 Preparando e adicionando o repositório:
 ```sh

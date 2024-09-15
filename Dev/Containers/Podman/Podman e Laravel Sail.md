@@ -19,3 +19,13 @@ Também é necessário indicar o arquivo de socket utilizado pelo Podman para pe
  export DOCKER_HOST='unix:///run/user/1000/podman/podman.sock'
  ```
  > Normalmente o caminho onde se encontra o `podman.sock` é este, porém dependendo da configuração da distro, ele pode estar em outro diretório.
+
+---
+
+> [!quote] Observação
+> Caso apresente o erro acusando não ter encontrado o comando `docker-compose`, basta criar o link simbólico da seguinte forma:
+> ```sh
+> ln -s /home/user/.docker/cli-plugins/docker-compose /home/user/.local/bin
+> ```
+
+

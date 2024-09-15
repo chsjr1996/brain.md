@@ -1,3 +1,5 @@
+#laravel #phpunit #pest
+
 Essa biblioteca disponibiliza recursos para automação de navegação pela aplicação, criando um navegador de internet capaz de executar ações via script de forma expressiva e de fácil uso.
 
 Por padrão implementa um driver individual do [Chrome](https://sites.google.com/chromium.org/driver), porém é possível instalar outro compatível com [[Selenium]] se necessário.
@@ -39,7 +41,7 @@ Crie o arquivo com `artisan`, por exemplo:
 php artisan dusk:make LoginTest
 ```
 
-É possível utilizar o [[PHPUnit]] diretamente ou o [[Pest]], segue abaixo os exemplos de cada um:
+É possível utilizar o PHPUnit diretamente ou o Pest, segue abaixo os exemplos de cada um:
 
 **PHPUnit**
 ```php

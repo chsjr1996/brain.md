@@ -20,4 +20,5 @@ laravel new example-app
 > composer global require laravel/installer
 > ```
 
-
+# Dicas e utilidades
+- [[Laravel - Eloquent Cursors]]

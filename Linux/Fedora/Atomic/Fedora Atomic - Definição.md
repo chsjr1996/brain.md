@@ -1,15 +1,14 @@
 #os #linux #fedora #atomic
 
-As distribuições atômicas do Fedora são também conhecidas como "[[Sistemas imutáveis]]". Estão disponíveis nas versões:
+As distribuições atômicas do Fedora são também conhecidas como "sistemas imutáveis". Estão disponíveis nas versões:
 
 - [[Fedora Silverblue]]
-- Fedora Kinoite
+- [[Fedora Kinoite]]
 - [[Fedora Sway Atomic]]
 - Fedora Budgie Atomic
 
 ## Utilidades
 - [[Mudando para outras variantes]]
-- [[Fedora Atomic - Primeiros passos pós instalação]]
 - [[Toolbox ajustes e correções]]
 - [[Toolbox - pacotes usados]]
 

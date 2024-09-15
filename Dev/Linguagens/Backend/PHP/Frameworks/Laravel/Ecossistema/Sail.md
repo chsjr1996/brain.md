@@ -1,7 +1,9 @@
-Essa biblioteca permite a instalação de uma interface de comandos de linha para interagir com a ambientação do [[Docker]] (via container*) para desenvolvimento de aplicações com Laravel.
+#laravel #podman #docker
+
+Essa biblioteca permite a instalação de uma interface de comandos de linha para interagir com a ambientação do Docker (via container*) para desenvolvimento de aplicações com Laravel.
 
 > [!quote] Observação
-> A ambientação não se limita apenas do [[Docker]], é possível utilizar o [[Podman e Laravel Sail|Podman]] também.
+> A ambientação não se limita apenas do Docker, é possível utilizar o Podman também.
 
 Ao invés de construir toda ambientação do zero, com essa biblioteca é possível escolher alguns componentes para serem adicionados no arquivo `docker-compose.yml` que são mais comuns em projetos com *framework* Laravel. Desta forma, instalar essa biblioteca permite a criação de um ambiente de desenvolvimento de maneira simplificada, mas poderosa.
 
@@ -55,7 +57,7 @@ Outros exemplos de comandos:
 Atenção ao arquivo `.env`, os apontamentos devem usar os nomes de serviço estabelecidos pelo `docker-compose.yml` assim como numa aplicação com a ambientação construída do zero.
 
 # Xdebug
-O [[Xdebug]] é incluso no Laravel Sail, para ativá-lo basta usar a variável de ambiente abaixo antes de iniciar os containers:
+O Xdebug é incluso no Laravel Sail, para ativá-lo basta usar a variável de ambiente abaixo antes de iniciar os containers:
 ```sh
 SAIL_XDEBUG_MODE=develop,debug,coverage
 ```

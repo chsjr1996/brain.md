@@ -8,35 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f708d30e4d648637",
+            "id": "cbed184bd8368df5",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "b5556129075f58bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Ecossistema/Laravel - Ecossistema.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f48c151fff17fe66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -164,42 +140,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f708d30e4d648637",
+  "active": "cbed184bd8368df5",
   "lastOpenFiles": [
-    "README.md",
-    "Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Ecossistema/Laravel - Ecossistema.md",
+    "Dev/Containers/Podman/Podman - host.gateway error.md",
     "Dev/Containers/Podman/Podman.md",
-    "Dev/Containers/Podman/Podman - Erro \"corrupted crc32 mismatch\".md",
-    "Linux/Fedora/Atomic/Ajustes no hardware.md",
+    "Dev/Containers/Podman/Podman problemas de permissões.md",
+    "Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Ecossistema/Horizon.md",
+    "Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Ecossistema/Telescope.md",
+    "README.md",
+    "Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Laravel.md",
+    "Laravel - Eloquent Cursors.md",
+    "Trilhas/Trilhas de conhecimento.md",
+    "Trilhas/Backend.canvas",
     "Dev/Ferramentas/Electron/Electron.md",
+    "NodeJS.md",
+    "Dev/Linguagens/Híbridas/Javascript.md",
     "Dev/Desenvolvimento.md",
-    "Dev/Ferramentas/Tauri/Tauri.md",
+    "Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Ecossistema/Breeze.md",
+    "Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Ecossistema/Inertia - Laravel.md",
+    "Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Ecossistema/Dusk.md",
+    "Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Ecossistema/Sail.md",
+    "Windows/Windows - WSL Docker Engine (nativo).md",
+    "Dev/Containers/Podman/Podman e Laravel Sail.md",
+    "Linux/Linux.md",
+    "Steam.md",
+    "Linux/Geral/Linux - Jogos (Steam).md",
+    "Flatpak.md",
+    "Linux/Linux - Drivers de vídeo.md",
+    "Linux/Geral/Flatpak/Flatpak - Hamster time tracker.md",
+    "Linux/Geral/Interfaces gráficas/Gnome/Gnome - Usar localização não registrada no GWeather.md",
     "Dev/Ferramentas/Electron",
     "Dev/Ferramentas/Tauri",
-    "Linux/Geral/Linux - Jogos (Steam).md",
-    "Linux/Linux - Drivers de vídeo.md",
-    "Linux/Linux.md",
-    "Dev/Fundamentos/Árvore binária.md",
-    "Dev/Fundamentos/Exemplos/Inversão de árvore binária.md",
-    "Linux/Fedora/Atomic/Fedora Silverblue.md",
-    "Ver depois.md",
-    "Linux/Geral/Flatpak/Flatpak - VSCode.md",
-    "Dev/Linguagens/Backend/PHP/PHP.md",
-    "Windows/Windows - WSL Docker Engine (nativo).md",
-    "Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Ecossistema/Sail.md",
-    "Windows/Windows.md",
-    "Windows/Windows - WSL consumo de RAM.md",
-    "Windows/Windows - WSL erro na inicialização.md",
-    "Dev/Containers/Containers.md",
-    "Dev/Containers/Docker/Docker.md",
     "Dev/Containers/Docker",
-    "Dev/Containers/Podman/Podman e Laravel Sail.md",
-    "Dev/Linguagens/Híbridas/Javascript.md",
     "Dev/Linguagens/Híbridas",
     "Files/current_graph.png.part",
     "Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Ecossistema",
     "Dev/Linguagens/Backend/PHP/Frameworks/Laravel",
-    "Trilhas/Backend.canvas",
     "Files/current_graph.png",
     "Files/current_graph_new.png",
     "Files/current_graph_new.png.part",

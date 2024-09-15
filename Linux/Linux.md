@@ -2,30 +2,24 @@
 
 ## Distros
 ### Rolling release
-- [[ArchLinux - dicas e utitilidades]]
+- [[ArchLinux]]
 
 ### Atomic/imutável
-- [[Fedora Atomic - Definição]]
-- [[Fedora Silverblue]]
-- [[Fedora Kinoite]]
+- [[Fedora Atomic - Definição|Fedora Atomic]]
 
 ## Hardware
 - [[Ajustes no hardware]]
 - [[Linux hardware - dicas e utilidades]]
 - [[Linux - Drivers de vídeo]]
 
-## Aplicativos
-
+## Aplicativos e utilitários
 
 > [!NOTE] Mudando aplicativo padrão via CMD
 > É possível mudar o aplicativo padrão por tipo de arquivo via linha de comando, [[Aplicativos padrão|leia mais aqui]].
 
-### Flatpak
-- [[Flatpak runtimes e setup]]
-- [[Flatpak - dicas e utilidades]]
-- [[Flatpak - VSCode]]
-- [[Flatpak - Postman]]
-- [[Flatpak - Hamster time tracker]]
+- [[Flatpak]]
+- [[Snap]]
+- [[Steam]]
 
 ---
 # Containers
