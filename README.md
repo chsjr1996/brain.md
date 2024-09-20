@@ -52,9 +52,12 @@ Baseado no site [roadmap.sh](https://roadmap.sh/), contendo as trilhas de conhec
 - Ollama - starchat2 (chatting)
 
 ## Desenvolvimento
-### Laravel
+### Laravel/PHP
 - [Github - Laravel ERD](https://github.com/recca0120/laravel-erd)
 - [Github - ERD editor](https://github.com/dineug/erd-editor)
+- [Laravel Filament](https://filamentphp.com/docs/3.x/panels/installation)
+- [Pest](https://pestphp.com/docs/expectations)
+- [Inspector - Laravel AI implementation sample](https://inspector.dev/implement-a-laravel-ai-component-with-support-for-multiple-llms/?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews)
 
 ### Remark
 - https://unifiedjs.com/learn/recipe/remark-html/ 
@@ -64,3 +67,6 @@ Baseado no site [roadmap.sh](https://roadmap.sh/), contendo as trilhas de conhec
 - https://nodered.org/
 - [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF)
 - [SQLite - WAL](https://www.sqlite.org/draft/wal.html)
+- [Share Preview - Scraper](https://github.com/rafaelmardojai/share-preview/blob/master/src/backend/scraper.rs)
+- [Reddit/the_narrator42 - Obsidian launchpad](https://www.reddit.com/r/ObsidianMD/comments/1fkybr7/my_current_homepage_setup/)
+- [Fedora - Podman Pods](https://fedoramagazine.org/simplifying-container-management-with-podman-pods-on-fedora-linux/)
