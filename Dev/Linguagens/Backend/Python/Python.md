@@ -1,4 +1,5 @@
 #programming #python
 
-# Ajustes e configurações
+# Dicas e utilidades
 - [[Python Venv]]
+- [[Python - Supervisor Flask]]

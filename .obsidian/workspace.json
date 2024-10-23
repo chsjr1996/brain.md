@@ -8,27 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd869e42a0f57053",
+            "id": "effc1f6e6fcbc62a",
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "dd29ae145bd3ee3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -48,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -57,13 +48,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -71,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ],
@@ -96,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -113,10 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -127,7 +124,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -135,9 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ],
@@ -158,35 +157,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd29ae145bd3ee3e",
+  "active": "effc1f6e6fcbc62a",
   "lastOpenFiles": [
+    "Linux/Geral/Flatpak/Flatpak - Postman.md",
+    "Dev/Linguagens/Backend/PHP/CMS/Wordpress/Wordpress - Admin erro redirecionamento ou permissão.md",
+    "Dev/Linguagens/Backend/PHP/CMS/Wordpress/Wordpress.md",
+    "README.md",
+    "Dev/Linguagens/Backend/PHP/CMS/Wordpress/Wordpress - using WP Cron.md",
     "Linux/Geral/Interfaces gráficas/Gnome/Gnome - Usar localização não registrada no GWeather.md",
+    "Dev/ML/LLMs/Ollama - Instalação container.md",
+    "tmp.md",
+    "Linux - Comandos utilitários.md",
+    "Linux/Linux.md",
+    "Dev/Linguagens/Backend/Python/Python Venv.md",
+    "Dev/Linguagens/Backend/Python/Python - Supervisor Flask.md",
+    "Dev/Linguagens/Backend/Python/Python.md",
+    "Dev/Containers/Podman/Podman problemas de permissões.md",
     "Linux/Fedora/Atomic/Mudando para outras variantes.md",
     "Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Ecossistema/Laravel - Ecossistema.md",
     "Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Ecossistema/Reverb.md",
     "Dev/Containers/Podman/Podman - host.gateway error.md",
     "Dev/Containers/Podman/Podman.md",
-    "Dev/Containers/Podman/Podman problemas de permissões.md",
     "Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Ecossistema/Horizon.md",
     "Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Ecossistema/Telescope.md",
-    "README.md",
     "Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Laravel.md",
     "Laravel - Eloquent Cursors.md",
     "Trilhas/Trilhas de conhecimento.md",
     "Trilhas/Backend.canvas",
     "Dev/Ferramentas/Electron/Electron.md",
     "NodeJS.md",
-    "Dev/Linguagens/Híbridas/Javascript.md",
-    "Dev/Desenvolvimento.md",
-    "Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Ecossistema/Breeze.md",
-    "Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Ecossistema/Inertia - Laravel.md",
-    "Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Ecossistema/Dusk.md",
-    "Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Ecossistema/Sail.md",
-    "Windows/Windows - WSL Docker Engine (nativo).md",
-    "Dev/Containers/Podman/Podman e Laravel Sail.md",
-    "Linux/Linux.md",
-    "Steam.md",
-    "Linux/Geral/Linux - Jogos (Steam).md",
     "Dev/Ferramentas/Electron",
     "Dev/Ferramentas/Tauri",
     "Dev/Containers/Docker",

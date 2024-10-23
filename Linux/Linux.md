@@ -1,10 +1,10 @@
 #brainstart #os #linux
 
-## Distros
-### Rolling release
+# Distros
+## Rolling release
 - [[ArchLinux]]
 
-### Atomic/imutável
+## Atomic/imutável
 - [[Fedora Atomic - Definição|Fedora Atomic]]
 
 ## Hardware
@@ -47,6 +47,10 @@ Além disso também existem os "compositores de janelas", estes permitem a adiç
 ## Ambientes gráficos
 - [[Gnome]]
 - [[KDE]]
+
+---
+# Dicas e utilidades
+- [[Linux - Comandos utilitários]]
 
 ---
 ## Referências

@@ -55,9 +55,15 @@ Baseado no site [roadmap.sh](https://roadmap.sh/), contendo as trilhas de conhec
 ### Laravel/PHP
 - [Github - Laravel ERD](https://github.com/recca0120/laravel-erd)
 - [Github - ERD editor](https://github.com/dineug/erd-editor)
+- [Laravel News - Reverb example](https://laravel-news.com/laravel-real-time-chat)
 - [Laravel Filament](https://filamentphp.com/docs/3.x/panels/installation)
-- [Pest](https://pestphp.com/docs/expectations)
+- [Laravel Guide Pipeline](https://www.honeybadger.io/blog/laravel-pipeline/)
+- [Laravel Guide Facades](https://laravel-news.com/laravel-facades)
+- [Laravel Fillament](https://filamentphp.com/docs/3.x/panels/installation)
+- [Pest - Expectations](https://pestphp.com/docs/expectations)
+- [Pest - Mutations](https://pestphp.com/docs/mutation-testing) 
 - [Inspector - Laravel AI implementation sample](https://inspector.dev/implement-a-laravel-ai-component-with-support-for-multiple-llms/?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews)
+- [Stitcher - Testing patterns](https://stitcher.io/blog/testing-patterns)
 
 ### Remark
 - https://unifiedjs.com/learn/recipe/remark-html/ 
@@ -70,3 +76,6 @@ Baseado no site [roadmap.sh](https://roadmap.sh/), contendo as trilhas de conhec
 - [Share Preview - Scraper](https://github.com/rafaelmardojai/share-preview/blob/master/src/backend/scraper.rs)
 - [Reddit/the_narrator42 - Obsidian launchpad](https://www.reddit.com/r/ObsidianMD/comments/1fkybr7/my_current_homepage_setup/)
 - [Fedora - Podman Pods](https://fedoramagazine.org/simplifying-container-management-with-podman-pods-on-fedora-linux/)
+- [Github - Awesome TUIs](https://github.com/rothgar/awesome-tuis)
+- [Tabnews - WASM Rust e Typescript](https://www.tabnews.com.br/Ramoago/como-usar-codigo-rust-direto-do-typescript-atraves-de-wasm)
+- [Rails 8](https://rubyonrails.org/2024/9/27/rails-8-beta1-no-paas-required
