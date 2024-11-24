@@ -79,3 +79,6 @@ Baseado no site [roadmap.sh](https://roadmap.sh/), contendo as trilhas de conhec
 - [Github - Awesome TUIs](https://github.com/rothgar/awesome-tuis)
 - [Tabnews - WASM Rust e Typescript](https://www.tabnews.com.br/Ramoago/como-usar-codigo-rust-direto-do-typescript-atraves-de-wasm)
 - [Rails 8](https://rubyonrails.org/2024/9/27/rails-8-beta1-no-paas-required
+- [Yaak - HTTP client](https://yaak.app/)
+- [Bruno - HTTP client](https://www.usebruno.com/)
+- [Hoppscotch - HTTP client](https://hoppscotch.io/)
