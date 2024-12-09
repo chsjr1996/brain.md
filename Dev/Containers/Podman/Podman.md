@@ -7,5 +7,5 @@
 
 # Correção de problemas
 - [[Podman - database configuration mismatch]]
-- [[Podman - Erro "corrupted crc32 mismatch"]]
+- [[Podman - Erro corrupted crc32 mismatch]]
 - [[Podman - host.gateway error]]
