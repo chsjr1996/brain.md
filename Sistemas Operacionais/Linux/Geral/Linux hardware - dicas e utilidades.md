@@ -5,6 +5,7 @@ Adicione um novo arquivo no diretório `/etc/udev/rules.d` chamado (por exemplo)
 ```
 KERNEL=="event*", ATTRS{name}=="AT Translated Set 2 keyboard", ENV{LIBINPUT_IGNORE_DEVICE}="1"
 ```
+
 > [!warning] Atenção
 > No Fedora Atomic deixe um deploy fixado antes dessa modificação caso seja necessário revertê-la. E caso esteja utilizando Sway, opte por usar o bloqueio direto nos arquivos de configuração do compositor.
 

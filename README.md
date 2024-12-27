@@ -14,8 +14,8 @@ O principal objetivo é gerar anotações como dados que se relacionam para gera
 
 # Principais tópicos
 - [[Desenvolvimento]]
-- [[Linux]]
-- [[Windows]]
+- [[Sistemas operacionais]]
+- [[Games]]
 
 # Trilhas de conhecimento
 Baseado no site [roadmap.sh](https://roadmap.sh/), contendo as trilhas de conhecimento que já possuo ou estou estudando, com anotações pessoais e interligadas com outras notas deste projeto.
@@ -55,6 +55,8 @@ Baseado no site [roadmap.sh](https://roadmap.sh/), contendo as trilhas de conhec
 ### Laravel/PHP
 - [Github - Laravel ERD](https://github.com/recca0120/laravel-erd)
 - [Github - ERD editor](https://github.com/dineug/erd-editor)
+- [Github - Spatie Async](https://github.com/spatie/async)
+- [Github - Symfony Process](https://github.com/symfony/process)
 - [Laravel News - Reverb example](https://laravel-news.com/laravel-real-time-chat)
 - [Laravel Filament](https://filamentphp.com/docs/3.x/panels/installation)
 - [Laravel Guide Pipeline](https://www.honeybadger.io/blog/laravel-pipeline/)
@@ -64,6 +66,7 @@ Baseado no site [roadmap.sh](https://roadmap.sh/), contendo as trilhas de conhec
 - [Pest - Mutations](https://pestphp.com/docs/mutation-testing) 
 - [Inspector - Laravel AI implementation sample](https://inspector.dev/implement-a-laravel-ai-component-with-support-for-multiple-llms/?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews)
 - [Stitcher - Testing patterns](https://stitcher.io/blog/testing-patterns)
+- [NativePHP Tutorial: Building a Mac MenuBar application](https://laravel-news.com/nativephp-tutorial)
 
 ### Remark
 - https://unifiedjs.com/learn/recipe/remark-html/ 

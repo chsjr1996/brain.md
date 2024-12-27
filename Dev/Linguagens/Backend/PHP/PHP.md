@@ -7,7 +7,7 @@
 
 # CMS
 ## Lista de CMS
-- [[Wordpress]]
+- [[Dev/Linguagens/Backend/PHP/CMS/Wordpress/Wordpress]]
 
 # Ferramentas de testes e telemetria
 - [[Xdebug]]

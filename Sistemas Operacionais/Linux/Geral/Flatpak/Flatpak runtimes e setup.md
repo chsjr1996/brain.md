@@ -29,9 +29,3 @@ flatpak run --command=sh com.visualstudio.code
 ls /usr/bin
 ls /usr/lib/sdk
 ```
-
-
----
-
-## Aplicações
-[[Flatpak - VSCode]]

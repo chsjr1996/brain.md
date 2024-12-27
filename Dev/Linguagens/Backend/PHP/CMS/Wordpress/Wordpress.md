@@ -1,4 +1,4 @@
 
 # Utilidades
-- [[Wordpress - using WP Cron]]
+- [[Wordpress - WPCron]]
 - [[Wordpress - Admin erro redirecionamento ou permissão]]

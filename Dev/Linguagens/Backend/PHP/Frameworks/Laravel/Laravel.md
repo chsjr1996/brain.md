@@ -1,4 +1,4 @@
-Laravel é um *framework* web PHP que permite construir aplicações dos mais variados tipos. Sua estrutura de projeto segue o padrão [[MVC]]. Este *framework* possui uma coletânea de recursos e funcionalidades, que possibilitam a criação de aplicações simples e complexas, sendo ainda possível extender suas funcionalidades através de seu [[Laravel - Ecossistema|ecossistema]] de bibliotecas adicionais.
+Laravel é um *framework* web PHP que permite construir aplicações dos mais variados tipos. Sua estrutura de projeto segue o padrão MVC. Este *framework* possui uma coletânea de recursos e funcionalidades, que possibilitam a criação de aplicações simples e complexas, sendo ainda possível extender suas funcionalidades através de seu [[Laravel - Ecossistema|ecossistema]] de bibliotecas adicionais.
 
 # Instalação
 É possível instalar direto pelo `composer` ou baixando o instalador.

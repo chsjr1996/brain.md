@@ -1,9 +1,8 @@
 #php #cms
-# Introdução
+
 É possível utilizar o recurso WP CRON para criar tarefas agendadas que são executadas em horários e frequências especificas.
 
-
-# Exemplos em código
+## Exemplos em código
 
 É necessário adicionar uma ação com o nome do CRON e a função a ser executada pelo mesmo, desta forma:
 ```php
@@ -65,18 +64,18 @@ wp cron event run cron_name
 
 ## Instalação WP Cron
 
-```
+```sh
 curl -O https://raw.githubusercontent.com/wp-cli/builds/gh-pages/phar/wp-cli.phar
 ```
 
-```
+```sh
 chmod +x wp-cli.phar
 ```
 
-```
+```sh
 sudo mv wp-cli.phar /usr/local/bin/wp
 ```
 
 ## Referências
-- https://developer.wordpress.org/plugins/cron/
-- https://www.hostinger.com.br/tutoriais/como-instalar-e-usar-wp-cli-para-gerenciar-blog-wordpress
+- [Wordpress CRON](https://developer.wordpress.org/plugins/cron/)
+- [Hostinger - WP CLI](https://www.hostinger.com.br/tutoriais/como-instalar-e-usar-wp-cli-para-gerenciar-blog-wordpress)

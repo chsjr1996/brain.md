@@ -11,8 +11,8 @@
 		{"id":"86162529441a6b2d","type":"text","text":"Gerenciamento I/O","x":400,"y":-880,"width":250,"height":60},
 		{"id":"fc0cc99fd5aa5786","type":"text","text":"Conceitos básicos de rede","x":400,"y":-800,"width":250,"height":60},
 		{"id":"8c5d9900715531a0","type":"text","text":"Funcionamento básico","x":400,"y":-710,"width":250,"height":60},
-		{"id":"d77a9324028e3907","type":"text","text":"Terminal básico","x":400,"y":-630,"width":250,"height":60},
-		{"id":"bcaa48af3440b7a0","type":"text","text":"Sistemas operacionais","x":0,"y":-880,"width":250,"height":60},
+		{"id":"d77a9324028e3907","type":"text","text":"[[Terminal básico]]","x":400,"y":-630,"width":250,"height":60},
+		{"id":"bcaa48af3440b7a0","type":"text","text":"[[Sistemas operacionais]]","x":0,"y":-880,"width":250,"height":60},
 		{"id":"57602d875c5274fb","type":"text","text":"[[Desenvolvimento]]","x":-414,"y":-700,"width":250,"height":60},
 		{"id":"63a9c16d1fafcb34","type":"text","text":"[[Linguagens interpretadas]]","x":-859,"y":-830,"width":250,"height":60},
 		{"id":"a47e08094a406306","type":"text","text":"[[Linguagens compiladas]]","x":-859,"y":-590,"width":250,"height":60},
@@ -22,7 +22,7 @@
 		{"id":"e36b062906a40600","type":"text","text":"[[BD relacional]]","x":-859,"y":-310,"width":250,"height":60},
 		{"id":"21d2d3147b6152e5","type":"text","text":"[[BD não relacional]]","x":-859,"y":-210,"width":250,"height":60},
 		{"id":"4e9751bded91062d","type":"text","text":"[[MongoDB]]","x":-1220,"y":-150,"width":250,"height":60},
-		{"id":"cb49b8c2faff6fb0","x":400,"y":-540,"width":250,"height":60,"type":"text","text":"[[Linux]]"}
+		{"id":"cb49b8c2faff6fb0","type":"text","text":"[[Linux]]","x":400,"y":-540,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"a34aac59f67e578f","fromNode":"d0118dc987184fe4","fromSide":"bottom","toNode":"1a91c5d289500617","toSide":"top"},

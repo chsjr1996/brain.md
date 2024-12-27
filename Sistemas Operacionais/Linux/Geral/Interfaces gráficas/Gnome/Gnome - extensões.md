@@ -57,4 +57,4 @@
 	- Storage > Free
 
 ### Weather O'Clock
-Ajuste realizado no 'schema' do Gnome para mudar unidade para "Celsius". [[Gnome - Usar localização não registrada no GWeather|Veja mais]].
+Ajuste realizado no 'schema' do Gnome para mudar unidade para "Celsius".
