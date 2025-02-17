@@ -20,6 +20,7 @@
 - [[Flatpak]]
 - [[Snap]]
 - [[Steam]]
+- [[Distrobox]]
 
 ---
 ## Containers

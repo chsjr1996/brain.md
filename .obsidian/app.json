@@ -2,6 +2,5 @@
   "vimMode": true,
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
-  "attachmentFolderPath": "Files",
-  "showRibbon": false
+  "attachmentFolderPath": "Files"
 }

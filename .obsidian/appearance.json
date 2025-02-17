@@ -4,5 +4,6 @@
   "enabledCssSnippets": [],
   "theme": "system",
   "nativeMenus": false,
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "showRibbon": false
 }
