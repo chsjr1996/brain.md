@@ -49,5 +49,24 @@
       ],
       "key": "C"
     }
+  ],
+  "editor:delete-paragraph": [],
+  "markdown:toggle-preview": [],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "file-explorer:reveal-active-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
   ]
 }

@@ -1,0 +1,9 @@
+
+--- 
+
+## Configurações 
+### Podman
+
+
+## Plugins
+- IdeaVim 

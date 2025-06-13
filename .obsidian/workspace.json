@@ -1,52 +1,103 @@
 {
   "main": {
-    "id": "d071bd8352450167",
+    "id": "516177a6aa71bed8",
     "type": "split",
     "children": [
       {
-        "id": "1dc070869da7ae24",
+        "id": "ccd2e0f9ebc2c7c0",
         "type": "tabs",
         "children": [
           {
-            "id": "0ad0d638631636e1",
+            "id": "80e3b071f03463d1",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
+              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
           },
           {
-            "id": "469107d9a90247d1",
+            "id": "e10275fc2482b7ae",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Trilhas/Backend.canvas",
+                "viewState": {
+                  "x": -285,
+                  "y": -835,
+                  "zoom": -0.758247283684378
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Backend"
+            }
+          },
+          {
+            "id": "3f2797d5c7e27806",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outros/Revisar.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Revisar"
+            }
+          },
+          {
+            "id": "2df8dcc0c2e1f9b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Containers/Podman/Podman problemas de permissões.md",
+                "file": "Computação geral/Sistemas Operacionais/Linux/Fedora/Atomic/Toolbox - pacotes usados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Podman problemas de permissões"
+              "title": "Toolbox - pacotes usados"
+            }
+          },
+          {
+            "id": "77800421513649c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computação geral/Sistemas Operacionais/Linux/Geral/Linux - desativando teclado interno do notebok.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux - desativando teclado interno do notebok"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "69d429d51da3ae79",
+    "id": "ba8f011c08c7f082",
     "type": "split",
     "children": [
       {
-        "id": "a25b6ae979f241fd",
+        "id": "0d37e126d48f2efc",
         "type": "tabs",
         "children": [
           {
-            "id": "7ffe91cf386c3eef",
+            "id": "492264c04bc39195",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -59,12 +110,12 @@
             }
           },
           {
-            "id": "f913e0e9cf7669fc",
+            "id": "96a6689c2fd83efb",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "electron",
+                "query": "keyboar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +127,7 @@
             }
           },
           {
-            "id": "520a62884d1ee56b",
+            "id": "f42ea9c617cd64b4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,28 +136,28 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "1f7807ed4212c9a4",
+    "id": "aa106380559b6b82",
     "type": "split",
     "children": [
       {
-        "id": "ecd3cfa88ab9ff40",
+        "id": "547e8379dca93980",
         "type": "tabs",
         "children": [
           {
-            "id": "9efc120c6065c7e3",
+            "id": "cf9c484db03f0a1f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Containers/Podman/Podman problemas de permissões.md",
+                "file": "Computação geral/Sistemas Operacionais/Linux/Fedora/Atomic/Toolbox - pacotes usados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,50 +167,54 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Podman problemas de permissões"
+              "title": "Backlinks for Toolbox - pacotes usados"
             }
           },
           {
-            "id": "bb98f5de0ccbc90e",
+            "id": "ec48dc472ba6bef0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Containers/Podman/Podman problemas de permissões.md",
+                "file": "Computação geral/Sistemas Operacionais/Linux/Fedora/Atomic/Toolbox - pacotes usados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Podman problemas de permissões"
+              "title": "Outgoing links from Toolbox - pacotes usados"
             }
           },
           {
-            "id": "f492f570841f3f96",
+            "id": "03fd50c70a5b30b9",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "e39a139cd93c3088",
+            "id": "72d78f17d2a13541",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trilhas/Backend.canvas"
+                "file": "Computação geral/Sistemas Operacionais/Linux/Fedora/Atomic/Toolbox - pacotes usados.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Backend"
+              "title": "Outline of Toolbox - pacotes usados"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,51 +231,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "469107d9a90247d1",
+  "active": "77800421513649c3",
   "lastOpenFiles": [
-    "Dev/ML/LLMs/Ollama - Instalação container.md",
-    "Distrobox.md",
-    "Sistemas Operacionais/Linux/Linux.md",
-    "Dev/Containers/Toolboxes/Distrobox/Distrobox - dicas e utilidades.md",
-    "Dev/Containers/Toolboxes/Distrobox",
-    "Dev/Containers/Toolboxes",
-    "[Distrobox - dicas e utilidades.md",
-    "Dev/Ferramentas/Tauri/Tauri.md",
-    "Sistemas Operacionais/Linux/Geral/Flatpak/Flatpak - Postman.md",
-    "Dev/ML/LLMs/Ollama - Arch Linux.md",
-    "Dev/ML/LLMs/Ollama - Fedora.md",
-    "Dev/Containers/Podman/Podman e Laravel Sail.md",
-    "Sistemas Operacionais/Linux/Geral/Flatpak/Flatpak - dicas e utilidades.md",
-    "Dev/Git - dicas e utilidades.md",
-    "Sistemas Operacionais/Linux/ArchLinux/ArchLinux - aplicações x11 não abrem no Wayland.md",
-    "Sistemas Operacionais/Linux/ArchLinux/ArchLinux.md",
-    "Dev/Containers/Podman/Podman problemas de permissões.md",
+    "Computação geral/Sistemas Operacionais/Linux/Fedora/Atomic/Toolbox - pacotes usados.md",
+    "Computação geral/Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Exemplos/Laravel - geral dicas rápidas.md",
+    "Computação geral/Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Ecossistema/Laravel - Eloquent dicas rápidas.md",
+    "Outros/Revisar.md",
     "Trilhas/Backend.canvas",
-    "Terminal básico.md",
+    "PHPStorm - Laravel scratch tinker.md",
+    "Computação geral/Dev/Containers/Podman/Podman com Docker Compose.md",
+    "Fedora - SSH Chave privada não funciona.md",
+    "Computação geral/Sistemas Operacionais/Linux/Fedora/Fedora.md",
+    "Laravel - Reverb chat lab.md",
+    "Computação geral/Dev/Desenvolvimento.md",
+    "Computação geral/Dev/Projetos",
+    "Computação geral/Sistemas Operacionais/Linux/Fedora/Fedora - openh264 2.4.md",
+    "Computação geral/Dev/Git - dicas e utilidades.md",
+    "Computação geral/Dev/Containers/Podman/Podman.md",
+    "Computação geral/Dev/Linguagens/Backend/PHP/Frameworks/Pest/Pest.md",
+    "Computação geral/Dev/Linguagens/Backend/PHP/Frameworks/Pest/Exemplos/Pest - Laravel TestCase e migrations.md",
+    "Computação geral/Dev/Linguagens/Backend/PHP/Frameworks/Pest/Exemplos/Pest - verificando array de objetos.md",
+    "Computação geral/Dev/Linguagens/Backend/PHP/Frameworks/Pest/Exemplos",
+    "Computação geral/Dev/Linguagens/Backend/PHP/Frameworks/Pest",
+    "Computação geral/Internet/Internet.md",
+    "Computação geral/Internet/Protocolo HTTP.md",
+    "Computação geral/Internet",
+    "Computação geral/Computação geral.md",
     "README.md",
-    "Sistemas Operacionais/Linux/Geral/Interfaces gráficas/Gnome/Gnome - Remover ícone da aplicação na barra de título.md",
-    "Dev/Linguagens/Backend/PHP/PHP.md",
-    "Dev/Linguagens/Backend/PHP/Exemplos/PHP 8.4 - Property Hooks.md",
-    "Sistemas operacionais.md",
-    "Sistemas Operacionais",
-    "Games/Games.md",
-    "Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Ecossistema/Socialite.md",
-    "Dev/Desenvolvimento.md",
-    "Dev/Fundamentos/DDD - Domain Drive Design.md",
-    "Dev/Fundamentos/SOLID.md",
-    "Files/csharp_pagination_ef_core.png",
-    "Files/Pasted image.png",
-    "Dev/Linguagens/Backend/CSharp/Exemplos",
-    "Dev/Linguagens/Backend/CSharp",
-    "Games",
-    "Dev/Containers/Docker/Recipes",
-    "Dev/Ferramentas/Electron",
-    "Dev/Ferramentas/Tauri",
-    "Dev/Containers/Docker",
+    "Computação geral/Sistemas Operacionais/Windows/Windows - servidor remoto WSL.md",
+    "Computação geral/Sistemas Operacionais/Linux/Geral/Flatpak/Flatpak - VSCode.md",
+    "Computação geral/Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Ecossistema/Inertia - Laravel.md",
+    "Computação geral/Sistemas Operacionais/Linux/Fedora/Atomic/Mudando para outras variantes.md",
+    "Computação geral/Dev/Containers/Podman/Podman problemas de permissões.md",
+    "Computação geral/Dev/ML/LLMs/Ollama - Instalação container.md",
+    "Computação geral/Sistemas Operacionais/Linux/Geral/Interfaces gráficas/TWM/i3wm",
+    "Computação geral/Sistemas Operacionais/Linux/Geral/Interfaces gráficas/TWM/Sway",
+    "Computação geral/Sistemas Operacionais/Linux/Geral/Interfaces gráficas/Gnome",
+    "Computação geral/Dev/Linguagens/Backend/PHP/Frameworks/Laravel/Ecossistema",
+    "Computação geral/Sistemas Operacionais/Linux/Geral/Interfaces gráficas/TWM",
+    "Computação geral/Sistemas Operacionais/Linux/Geral/Interfaces gráficas/KDE",
     "Files/current_graph.png",
-    "Files/current_graph_new.png",
-    "Files/vscode_kde_flatpak_session_bus_permission.png",
-    "Files/Pasted image 20240628210723.png",
-    "Files/interpreter_diagram.png"
+    "Files/csharp_pagination_ef_core.png",
+    "Files/interpreter_diagram.png",
+    "Files/vscode_kde_flatpak_session_bus_permission.png"
   ]
 }

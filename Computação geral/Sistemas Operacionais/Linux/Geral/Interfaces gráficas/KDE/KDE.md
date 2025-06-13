@@ -1,0 +1,2 @@
+
+# Ajustes e configurações
