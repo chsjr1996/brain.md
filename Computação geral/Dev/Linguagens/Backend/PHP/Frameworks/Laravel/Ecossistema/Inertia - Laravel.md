@@ -96,6 +96,14 @@ createInertiaApp({
 ```
 > Para Webpack/Laravel Mix consultar o site.
 
+# Debug
+## devtools
+```js
+var dataset = document.getElementById('app').getAttribute('data-page');
+var datasetJson = JSON.parse(dataset);
+datasetJson;
+```
+
 
 ---
 > [!NOTE] Referências
