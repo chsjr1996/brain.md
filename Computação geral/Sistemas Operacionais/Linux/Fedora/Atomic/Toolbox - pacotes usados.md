@@ -2,7 +2,7 @@
 
 ## Oficiais
 ```sh
-sudo dnf install -y nvim node npm php composer tmux zsh zsh-autosuggestions lsd bat zoxide podman-tui axel gnome-tweaks dconf-editor
+sudo dnf install -y nvim node npm php composer tmux zsh zsh-autosuggestions lsd bat zoxide podman-tui axel gnome-tweaks dconf-editor git-delta gem
 ```
 
 ## Externos

@@ -42,3 +42,14 @@ echo "[engine]\ncompose_warning_logs = false" > ~/.config/containers/containers.
 ```
 >isso criará o arquivo com a configuração necessária para ocultar a mensagem sobre o docker-compose.
 
+# Compatibilidade com Docker
+
+Para melhorar a compatibilidade com docker é possível instalar o pacote `podman-docker`. Dessa forma os comandos executados usando `docker` serão passados para o `podman`.
+
+> [!QUOTE] Removendo o aviso 'Emulate Docker CLI using podman'
+> Basta criar um arquivo vazio `nodocker` com o comando abaixo:
+> 
+>```sh
+>sudo touch /etc/containers/nodocker
+>``` 
+ 

@@ -30,4 +30,5 @@
 ### Labs
 Testes envolvendo alguma biblioteca/framework, não representam uma aplicação 100% funcional. O propósito aqui é experimentar novas tecnologias.
 
-- [[Instalação e configuração]]
+- [[Laravel Reverb chat - Passo a passo]]
+- [[Laravel - Finanças]]

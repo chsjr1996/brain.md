@@ -8,7 +8,7 @@ toolbox enter
 > Para entrar no toolbox.
 
 ```
-sudo dnf install flatpak-xdg-utils
+sudo dnf install -y flatpak-xdg-utils
 ```
 > Instala o pacote `flatpak-xdg-utils`.
 
